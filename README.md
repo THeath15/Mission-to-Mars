@@ -6,17 +6,17 @@ Also, this activity created a MongoDB database to store data from the web scrape
 Uses Bootstrap components to polish and customize the webpage.
 
 ## Data Environment used:
-BeautifulSoup4 4.9.3o
-Bootstrap 3.3.7
-Flask 1.1.2
-Flask-PyMongo 2.3.0
-Jupyter Notebook 6.1.4
-MongoDB 4.4.2
-Numpy 1.19.3***
-Pandas 1.1.4
-PyMongo 3.11.2
-Splinter 0.14.0
-webdriver-manager 3.2.2
+  -  BeautifulSoup4 4.9.3o
+  -  Bootstrap 3.3.7
+  -  Flask 1.1.2
+  -  Flask-PyMongo 2.3.0
+  -  Jupyter Notebook 6.1.4
+  -  MongoDB 4.4.2
+  -  Numpy 1.19.3***
+  -   Pandas 1.1.4
+  -  PyMongo 3.11.2
+  -  Splinter 0.14.0
+  -  webdriver-manager 3.2.2
 
 ## The webpage is mobile-responsive
 Changed everything to col-xs, which is the smallest option. Everything will scale up from the mobile phones size to the larger desktop sizes.
