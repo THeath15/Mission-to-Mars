@@ -5,7 +5,7 @@ BeautifulSoup and Splinter were used as dependencies  to automate a web browser 
 Also, this activity created a MongoDB database to store data from the web scrape and created a web application with Flask to display the data from the web scrape.
 Uses Bootstrap components to polish and customize the webpage.
 
-# Data Environment used:
+## Data Environment used:
 BeautifulSoup4 4.9.3o
 Bootstrap 3.3.7
 Flask 1.1.2
@@ -27,7 +27,9 @@ Changed the button color to warning, which is orange to match the header color.
 Added a tooltip that says Click here!, when the user hoovers over the Scrape button.
 Others: Changed the colors of various areas, adjusted some column heights to xs from md, and added a striped table pattern.
 
-#Webpage image after running  in flask
+# Webpage image after running  in flask
+![Screenshot 2022-01-15 132459](https://user-images.githubusercontent.com/92903447/149635574-2235cb48-715b-417a-aa11-c94f80e0883b.png)
+
 
 
 
